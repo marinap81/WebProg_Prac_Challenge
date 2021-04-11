@@ -1,0 +1,33 @@
+.background
+{
+
+    background:light white;
+    border: 5px solid grey;
+    padding: 20px;
+
+}
+
+.educationBackground
+{
+    background:light white;
+    border: 5px inset outset grey;
+    padding: 20px;
+
+}
+
+
+.h2
+{
+    font-size: 40px;
+    text-align: left;
+    color:black;
+    font-family: "Lucida Cursive", "Lucida Handwriting";
+}
+
+.p1
+{
+    text-align: left;
+    color:grey;
+    font-size: 20px;
+
+}
